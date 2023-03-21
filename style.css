@@ -1,12 +1,40 @@
-body{
-  font-family: lato,sans-serif;
-  background-color: aliceblue;
+.resumemargin{
+  margin: 3% 25%;
 }
-h1{
-  font-size: 50px;
+#name{
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 0px;
 }
-
-h2{
-  background-color: bisque;
- display: inline-block;
+#address{
+  text-align: center;
+  margin-top: 10px;
+}
+a{
+  text-decoration: none;
+  color: #000000;
+}
+#company{
+  margin-bottom: 0px;
+}
+#abstract{
+  text-align: center;
+  font-size: large;
+}
+#jobrole{
+  margin-top: 3px;
+  margin-bottom: 0px;
+}
+#education , #course{
+  margin-bottom: 0px;
+}
+#educationlist, #courselist{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+ul{
+  margin-top:10px ;
+}
+#declaration{
+  font-size: large;
 }
